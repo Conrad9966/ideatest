@@ -8,7 +8,7 @@ public class Test {
         // 创建Random对象
         Random random  = new Random();
         // 定义数组长度
-        int len =10;
+        int len =15;
         // 创建数组
         int[] arr = new int[len];
         // 循环添加随机数据
